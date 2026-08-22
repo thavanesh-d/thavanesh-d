@@ -21,7 +21,7 @@ ECE Student | Embedded Systems & IoT Enthusiast | VLSI Explorer
 
 🤖 Exploring AI, TinyML, Edge AI and intelligent hardware systems
 
-💻 Learning C, Embedded C, C++, Python and DSA
+💻 Learning C, Embedded C, C++ and DSA
 
 🔧 Building projects using ESP32, Arduino, sensors and actuators
 
