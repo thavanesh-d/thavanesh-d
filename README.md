@@ -134,8 +134,6 @@ Advanced Robotics
 - 🌐 IoT Cloud Platforms
 - ⚡ Digital Electronics
 - 🔋 Smart Electronics
-- 📱 Connected Devices
-- 🛰️ GPS & Communication Systems
 
 ---
 
@@ -153,21 +151,21 @@ Advanced Robotics
 
 🎯 2026
 
-- [ ] Master Embedded C
-- [ ] Master ESP32
-- [ ] Learn advanced PCB design
-- [ ] Build more IoT projects
-- [ ] Learn RTOS fundamentals
-- [ ] Improve C++ and Python
-- [ ] Learn DSA
-- [ ] Build strong GitHub projects
-- [ ] Improve electronics and circuit-design skills
+- [●] Master Embedded C
+- [●] Master ESP32
+- [●] Learn advanced PCB design
+- [●] Build more IoT projects
+- [●] Learn RTOS fundamentals
+- [●] Improve C++ and Python
+- [●] Learn DSA
+- [●] Build strong GitHub projects
+- [●] Improve electronics and circuit-design skills
 
 🚀 2027+
 
-- [ ] Advanced Embedded Systems
-- [ ] VLSI Design
-- [ ] TinyML / Edge AI
+- [●] Advanced Embedded Systems
+- [●] VLSI Design
+- [●] TinyML / Edge AI
 - [ ] Advanced Robotics
 - [ ] Contribute to Open Source
 - [ ] Build industry-level projects
