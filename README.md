@@ -90,14 +90,6 @@ Technologies: ESP32 • DHT11 • FSR • Pulse Sensor • Tilt Switch • NEO-6
 
 ---
 
-🔐 Laser Anti-Theft Detection System
-
-An ESP32-based security system designed to detect unauthorized movement by continuously monitoring a laser beam using an LDR sensor. When the laser beam is interrupted, the ESP32 detects the intrusion and activates a buzzer alarm, providing a simple and effective electronic anti-theft solution.
-
-Technologies: ESP32 • Laser • LDR • Buzzer • Embedded C
-
----
-
 📚 Currently Learning
 
 C / Embedded C
