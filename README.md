@@ -153,24 +153,24 @@ Advanced Robotics
 
 - [●] Master Embedded C
 - [●] Master ESP32
-- [●] Learn advanced PCB design
-- [●] Build more IoT projects
-- [●] Learn RTOS fundamentals
-- [●] Improve C++ and Python
-- [●] Learn DSA
-- [●] Build strong GitHub projects
-- [●] Improve electronics and circuit-design skills
+-  Learn advanced PCB design
+-  Build more IoT projects
+-  Learn RTOS fundamentals
+-  Improve C++ and Python
+-  Learn DSA
+-  Build strong GitHub projects
+-  Improve electronics and circuit-design skills
 
 🚀 2027+
 
-- [●] Advanced Embedded Systems
-- [●] VLSI Design
-- [●] TinyML / Edge AI
-- [ ] Advanced Robotics
-- [ ] Contribute to Open Source
-- [ ] Build industry-level projects
-- [ ] Develop advanced IoT systems
-- [ ] Work on real-world engineering problems
+-  Advanced Embedded Systems
+-  VLSI Design
+-  TinyML / Edge AI
+-  Advanced Robotics
+-  Contribute to Open Source
+-  Build industry-level projects
+-  Develop advanced IoT systems
+-  Work on real-world engineering problems
 
 ---
 
