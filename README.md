@@ -151,8 +151,8 @@ Advanced Robotics
 
 🎯 2026
 
-- [●] Master Embedded C
-- [●] Master ESP32
+-  Master Embedded C
+-  Master ESP32
 -  Learn advanced PCB design
 -  Build more IoT projects
 -  Learn RTOS fundamentals
