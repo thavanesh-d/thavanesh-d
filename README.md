@@ -54,7 +54,7 @@ I design **embedded systems that sense, decide and act**: from reading a sensor 
 
 <div align="center">
 
-| 🏆 **1** | ⚙️ **12+** | 🎛️ **3** | 🎯 **2026** |
+| 🏆 **1** | ⚙️ **6+** | 🎛️ **2** | 🎯 **2026** |
 |:--:|:--:|:--:|:--:|
 | First Prize<br/>Evitron 2k26 | Hardware<br/>Projects Built | PID-based<br/>Robots | Focus: ESP32,<br/>RTOS, PCB |
 
