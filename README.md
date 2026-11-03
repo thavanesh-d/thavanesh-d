@@ -1,9 +1,8 @@
-<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20&height=260&section=header&text=THAVANESH%20DHANABALAN&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Embedded%20Systems%20%E2%80%A2%20IoT%20%E2%80%A2%20Robotics%20%E2%80%A2%20VLSI&descSize=18&descAlignY=62" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Thavanesh Dhanabalan | Embedded Systems, IoT, Robotics, VLSI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Engineering+intelligent+hardware;PID-controlled+robots+that+race+and+balance;ESP32+%7C+IoT+%7C+Control+Systems+%7C+TinyML;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=Engineering+intelligent+hardware;PID-controlled+robots+that+race+and+balance;ESP32+%7C+IoT+%7C+Control+Systems+%7C+TinyML" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -11,36 +10,27 @@
 <a href="https://www.linkedin.com/in/thavanesh-d-394723358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=thavanesh-d&style=for-the-badge&color=00B8D4&label=PROFILE+VIEWS"/>
 
-<br/><br/>
-
-<a href="#-about">ABOUT</a> &nbsp;|&nbsp;
-<a href="#-tech-arsenal">TECH</a> &nbsp;|&nbsp;
-<a href="#-featured-projects">PROJECTS</a> &nbsp;|&nbsp;
-<a href="#-control-systems">CONTROL</a> &nbsp;|&nbsp;
-<a href="#-roadmap">ROADMAP</a> &nbsp;|&nbsp;
-<a href="#-contact">CONTACT</a>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
+<br/>
 
-<!-- ============================ ABOUT ============================ -->
-## 👨‍💻 About
+<img src="./assets/h-about.svg" width="100%" alt="About"/>
 
 <table>
 <tr>
-<td width="22%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/thavanesh-d.png" width="170" alt="Thavanesh"/>
-
-**Thavanesh D.**
-<br/>ECE Undergraduate
-<br/>K.S. Rangasamy College of Technology
+<img src="./assets/chip-3d.svg" width="100%" alt="3D ESP32 chip"/>
 
 </td>
-<td width="78%" valign="top">
+<td width="60%" valign="top">
 
-I design **embedded systems that sense, decide and act**: from reading a sensor to tuning a control loop to pushing live data to the cloud.
+<img src="https://wsrv.nl/?url=github.com/thavanesh-d.png&w=140&h=140&fit=cover&mask=circle" width="110" align="right" alt="Thavanesh"/>
+
+**Thavanesh D.** | ECE Undergraduate
+<br/>K.S. Rangasamy College of Technology
+
+I design **embedded systems that sense, decide and act**: from reading a sensor, to tuning a control loop, to pushing live data to the cloud.
 
 - 🔌 Firmware in **C / Embedded C / C++** on **ESP32** and Arduino
 - 🎛️ **PID-controlled robotics**: a prize-winning line follower and a self-balancing robot
@@ -52,16 +42,7 @@ I design **embedded systems that sense, decide and act**: from reading a sensor 
 </tr>
 </table>
 
-<div align="center">
-
-| 🏆 **1** | ⚙️ **6+** | 🎛️ **2** | 🎯 **2026** |
-|:--:|:--:|:--:|:--:|
-| First Prize<br/>Evitron 2k26 | Hardware<br/>Projects Built | PID-based<br/>Robots | Focus: ESP32,<br/>RTOS, PCB |
-
-</div>
-
-<!-- ============================ TECH ============================ -->
-## 🛠️ Tech Arsenal
+<img src="./assets/h-tech.svg" width="100%" alt="Tech Arsenal"/>
 
 <div align="center">
 
@@ -79,63 +60,53 @@ I design **embedded systems that sense, decide and act**: from reading a sensor 
 
 </div>
 
-<!-- ============================ PROJECTS ============================ -->
-## 🚀 Featured Projects
+<img src="./assets/h-projects.svg" width="100%" alt="Featured Projects"/>
 
-<!-- ---------- PETTA ---------- -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=95&section=header&text=PETTA%202.0%20RELOADED&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=PID%20Line%20Following%20Robot%20%E2%80%A2%20%F0%9F%8F%86%20First%20Prize%20Evitron%202k26&descSize=14&descAlignY=72" width="100%"/>
+<img src="./assets/c-petta.svg" width="100%" alt="Petta 2.0 Reloaded"/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="middle">
 
-An autonomous, high-speed line follower. An **IR sensor array** reads the track and a **PID controller** converts position error into differential motor speeds for smooth cornering.
-
-- 🎛️ Full **Kp / Ki / Kd** control loop on **ESP32**
-- 📶 **Live PID tuning over Wi-Fi** through an ESP32-hosted web page, with no re-flashing between runs
-- 🏆 **First Prize, Evitron 2k26** (Mahendra Engineering College), built as a two-member team
+<img src="./assets/linebot-3d.svg" width="100%" alt="3D line following robot on track"/>
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-**Stack**
-`ESP32` `IR Array` `PID` `Motor Driver` `DC Motors` `Web Server` `Embedded C/C++`
+An autonomous, high-speed line follower. An **IR sensor array** reads the track and a **PID controller** turns position error into differential motor speeds for smooth cornering.
+
+- 🎛️ Full **Kp / Ki / Kd** loop on **ESP32**
+- 📶 **Live PID tuning over Wi-Fi** from an ESP32-hosted web page, with no re-flashing between runs
+- 🏆 **First Prize, Evitron 2k26** (Mahendra Engineering College), built as a two-member team
 
 </td>
 </tr>
 </table>
 
-<!-- ---------- BALANCING ---------- -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=95&section=header&text=SELF-BALANCING%20ROBOT&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=PID%20Inverted%20Pendulum%20%E2%80%A2%20IMU%20Sensor%20Fusion&descSize=14&descAlignY=72" width="100%"/>
+<img src="./assets/c-balancer.svg" width="100%" alt="Self-Balancing Robot"/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 A two-wheeled robot that stays upright by actively fighting gravity. An **IMU** measures tilt, **sensor fusion** (accelerometer + gyroscope) gives a stable angle estimate, and a **PID controller** drives the motors to cancel the tilt in real time.
 
 - 📐 Accelerometer + gyroscope angle estimation
 - 🎚️ Kp / Ki / Kd tuned to balance response speed against oscillation and drift
-- 🔁 Fast closed-loop control cycle for stable balance
+- 🔁 Fast closed-loop cycle for stable balance
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="middle">
 
-**Stack**
-`ESP32 / Arduino` `IMU` `Sensor Fusion` `PID` `Motor Driver` `Gear Motors`
+<img src="./assets/balancer-3d.svg" width="100%" alt="3D self-balancing robot"/>
 
 </td>
 </tr>
 </table>
 
-<!-- ---------- AEROSHIELD ---------- -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,10,24&height=95&section=header&text=AEROSHIELD&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Smart%20Safety%20Helmet%20%E2%80%A2%20Emergency%20Detection%20%2B%20SOS&descSize=14&descAlignY=72" width="100%"/>
+<img src="./assets/c-aeroshield.svg" width="100%" alt="AeroShield"/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-An ESP32 smart helmet for **real-time safety monitoring**. It tracks impact, tilt/fall, temperature, heart rate and GPS. On a critical event it sends an **SOS alert with the reason and live location** via **Telegram**, while a web dashboard shows live telemetry.
+An ESP32 smart helmet for **real-time safety monitoring**. It tracks impact, tilt/fall, temperature, heart rate and GPS. On a critical event it sends an **SOS alert with the reason and live location** through **Telegram**, while a web dashboard shows live telemetry.
 
 ```mermaid
 flowchart LR
@@ -146,34 +117,9 @@ flowchart LR
     D --> E
 ```
 
-</td>
-<td width="35%" valign="top">
-
-**Stack**
-`ESP32` `FSR` `Tilt Switch` `Pulse Sensor` `DHT11` `NEO-6M GPS` `Telegram` `Wi-Fi`
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- PLANT ---------- -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,18,22&height=95&section=header&text=SMART%20PLANT%20SYSTEM&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=ESP32%20IoT%20%E2%80%A2%20Automatic%20Irrigation%20%E2%80%A2%20Blynk&descSize=14&descAlignY=72" width="100%"/>
-
-<table>
-<tr>
-<td width="65%" valign="top">
+<img src="./assets/c-plant.svg" width="100%" alt="Smart Plant System"/>
 
 An IoT plant-care system with **automatic irrigation**. It monitors soil moisture, light, temperature and humidity, then controls the pump and LED on its own, with remote monitoring through **Blynk IoT**.
-
-</td>
-<td width="35%" valign="top">
-
-**Stack**
-`ESP32` `Blynk` `Soil Moisture` `LDR` `DHT11` `Relay` `Pump`
-
-</td>
-</tr>
-</table>
 
 ### 🧩 More Builds
 
@@ -181,6 +127,8 @@ An IoT plant-care system with **automatic irrigation**. It monitors soil moistur
 
 | Project | What it does | Stack |
 |:--|:--|:--|
+| 🥄 **Hand Tremor Stabilization Spoon** | Assistive spoon that uses PID control to counter hand tremor | IMU • 2-axis Servos • ESP32 / Arduino Nano |
+| ♻️ **Smart Bin (BinCredible)** *(in progress)* | AI-based waste segregation | ESP32 • Edge Impulse • Servos |
 | 🏠 **Smart Hostel Room Monitor** | Environment monitoring and automation | ESP32 • BH1750 • SHT31 • DS3231 • PIR • OLED |
 | 🧪 **Smart Lab Safety Monitor** | Gas, flame, light and climate safety | ESP32 • MQ135 • Flame • BH1750 • SHT31 |
 | ☀️ **Solar Tracker** | Tracks the sun for maximum exposure | Servo • LDR |
@@ -188,8 +136,7 @@ An IoT plant-care system with **automatic irrigation**. It monitors soil moistur
 
 </div>
 
-<!-- ============================ CONTROL ============================ -->
-## 🎛️ Control Systems
+<img src="./assets/h-control.svg" width="100%" alt="Control Systems"/>
 
 > **Measure → compute error → correct → repeat.** This loop sits at the core of my robots.
 
@@ -226,8 +173,34 @@ float computePID(float setpoint, float measured) {
 
 </div>
 
-<!-- ============================ ROADMAP ============================ -->
-## 🗺️ Roadmap
+<img src="./assets/h-3d.svg" width="100%" alt="3D Contributions"/>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake"/>
+
+</div>
+
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub Analytics"/>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=thavanesh-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavanesh-d&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thavanesh-d&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=thavanesh-d&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+
+</div>
+
+<img src="./assets/h-roadmap.svg" width="100%" alt="Roadmap"/>
 
 ```mermaid
 flowchart LR
@@ -260,32 +233,7 @@ flowchart LR
 </tr>
 </table>
 
-<!-- ============================ ANALYTICS ============================ -->
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=thavanesh-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavanesh-d&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thavanesh-d&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thavanesh-d&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thavanesh-d&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<!-- ============================ PHILOSOPHY ============================ -->
-<div align="center">
-
-## 💡 Engineering Philosophy
 
 ### `Learn → Build → Break → Debug → Improve → Repeat`
 
@@ -293,8 +241,7 @@ flowchart LR
 
 </div>
 
-<!-- ============================ CONTACT ============================ -->
-## 🤝 Contact
+<img src="./assets/h-contact.svg" width="100%" alt="Contact"/>
 
 <div align="center">
 
