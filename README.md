@@ -181,8 +181,6 @@ An IoT plant-care system with **automatic irrigation**. It monitors soil moistur
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| 🥄 **Hand Tremor Stabilization Spoon** | Assistive spoon that uses PID control to counter hand tremor | IMU • 2-axis Servos • ESP32 / Arduino Nano |
-| ♻️ **Smart Bin (BinCredible)** *(in progress)* | AI-based waste segregation | ESP32 • Edge Impulse • Servos |
 | 🏠 **Smart Hostel Room Monitor** | Environment monitoring and automation | ESP32 • BH1750 • SHT31 • DS3231 • PIR • OLED |
 | 🧪 **Smart Lab Safety Monitor** | Gas, flame, light and climate safety | ESP32 • MQ135 • Flame • BH1750 • SHT31 |
 | ☀️ **Solar Tracker** | Tracks the sun for maximum exposure | Servo • LDR |
